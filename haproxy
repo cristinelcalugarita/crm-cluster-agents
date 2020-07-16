@@ -1,4 +1,5 @@
 #!/bin/sh
+# https://db-blog.web.cern.ch/blog/antonio-nappi/2018-01-haproxy-high-availability-setup
 #
 # Resource script for haproxy daemon
 #
