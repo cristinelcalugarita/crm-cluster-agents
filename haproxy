@@ -1,5 +1,6 @@
 #!/bin/sh
 # https://db-blog.web.cern.ch/blog/antonio-nappi/2018-01-haproxy-high-availability-setup
+# https://www.digitalocean.com/community/tutorials/how-to-create-a-high-availability-haproxy-setup-with-corosync-pacemaker-and-floating-ips-on-ubuntu-14-04
 #
 # Resource script for haproxy daemon
 #
